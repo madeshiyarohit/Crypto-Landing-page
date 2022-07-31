@@ -1,22 +1,24 @@
 # Hey Welcome Buddy 👋
 
-### This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
+This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
 
-## Name of Project : **Crypto Landing Page**
+## Project Name : **Crypto Landing Page !**
 
-</br>
-
-> In this is Project Basically i learnt about flexbox that where and how to use flexbox in our Web Project. And i also get to know that we can not make a fancy or modern looking website without using flexbox as per my experience.
-
-</br>
-</br>
-
-### This is How My Project is looking on Desktop.
+In this project i have created a Crypto landing page from scratch. And i have learnt a lot of things like how to use flex and how css makes life easier , we can manipulate the things in Html with the help of CSS without touching HTML file in terms of positing and direction not in terms of DOM manipulation😅. 
 
 </br>
 
-![Image](./assets/screencapture-file-C-Users-hp-Desktop-CSS-PROJECTS-Challenge-5-index-html-2022-07-21-22_24_44.png)
+# 💻 Tech Stack Used :
 
-Your Can Check it live on below link :
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
-[Crypto Landing Page !!!](https://crypto-landing-page-rohit.netlify.app/ "Crypto Landing Page By Rohit Madeshiya")
+</br>
+
+### My Project is looking like :
+
+![Web Site Image](./assets/screencapture-file-C-Users-hp-Desktop-CSS-PROJECTS-Challenge-5-index-html-2022-07-21-22_24_44.png)
+
+### You can Check it Live on Below Link :
+
+[Live Link !](https://crypto-landing-page-rohit.netlify.app/)
+
